@@ -13,7 +13,7 @@
 
 - 🌱 Siempre estoy aprendiendo, ahora un poco mas sobre **Data Science, Python, ML y Flujo de Datos**
 
-- 👨‍💻 Todos mis proyectos se encuentran disponibles aqui [https://github.com/moralespbl](https://github.com/moralespbl)
+- 👨‍💻 Todos mis proyectos se encuentran disponibles  [aqui](https://github.com/moralespbl)
 
 - 📝 Tambien puedes encontrarme en: [https://www.linkedin.com/in/moralespbl/](https://www.linkedin.com/in/moralespbl/)
 
