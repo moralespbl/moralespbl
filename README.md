@@ -17,7 +17,7 @@
 
 - 📫 Contactame: **moralespbl@hotmail.com**
 
-- 📄 Conoce sobre mis experiencias en mi: <a href=https://1drv.ms/w/c/f2ba9193465f9c3d/ESiKkeX9ENlEsUdxCqH1H8kBAARc77gHXNGwSkh2ppDpxA?e=a53NE8">CV</a> 
+- 📄 Conoce sobre mis experiencias en mi: <a href="https://1drv.ms/w/c/f2ba9193465f9c3d/ESiKkeX9ENlEsUdxCqH1H8kBAARc77gHXNGwSkh2ppDpxA?e=a53NE8">CV</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
