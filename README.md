@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Pablo </h1>
-<h3 align="center">Python | SQL | Power BI </h3>
+<h3 align="center">Data Scientist | Data Analyst | Python | R | VBA | Trader con Cartera Propia </h3>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
