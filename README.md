@@ -21,6 +21,8 @@
 
 - 📫 Contactame: **moralespbl@hotmail.com**
 
+- celular: +5493884303515 
+
 - 📄 Conoce más sobre mi: educación y experiencia en mi <a href="https://1drv.ms/w/c/f2ba9193465f9c3d/ESiKkeX9ENlEsUdxCqH1H8kBAARc77gHXNGwSkh2ppDpxA?e=a53NE8">CV</a> 
 
 <h2 align="left">Contactame:</h2>
